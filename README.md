@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 Cara menjalankan program:
-1. Run terlebih dahulu backendnya yang python tea cenah sampai ada link http://127.0.0.1:5000/
+1. Run terlebih dahulu backendnya yang python tea cenah sampai ada link http://127.0.0.1:5000/. File python terbaru ada di link ini https://drive.google.com/file/d/1pZfxKyKYmhHfVA4HYLHnSeopdXvvzfDx/view?usp=sharing
    
    ![Screenshot (4269)](https://github.com/user-attachments/assets/ac38e5a4-e2c0-45cb-a65b-13826dc8275c)
 3. Lalu selanjutnya buka file NEXTJS yang ada di repo ini dan jalankan programnya pada terminal. Bukan di CMD tapi di terminal VSCODE di dalam file NEXTJS ini. 
