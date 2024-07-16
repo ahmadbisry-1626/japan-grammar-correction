@@ -2,8 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
-
+Cara menjalankan program:
+1. Run terlebih dahulu backendnya yang python tea cenah sampai ada link http://127.0.0.1:5000/
+   
+   ![Screenshot (4269)](https://github.com/user-attachments/assets/ac38e5a4-e2c0-45cb-a65b-13826dc8275c)
+3. Lalu selanjutnya buka file NEXTJS yang ada di repo ini dan jalankan programnya pada terminal. Bukan di CMD tapi di terminal VSCODE di dalam file NEXTJS ini. 
 ```bash
 npm run dev
 # or
@@ -12,6 +15,14 @@ yarn dev
 pnpm dev
 # or
 bun dev
+```
+3. Selamat sidang anjay
+   
+   ![Screenshot (4270)](https://github.com/user-attachments/assets/81bbcc8b-5f72-4d77-b353-31ee55861f23)
+
+## Bila ada error banyak merah merah ketika membuka file ini, install dulu NEXTJS nya di terminal VSCODE. Bukan di CMD ya adik adik.
+```bash
+npm i next
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
