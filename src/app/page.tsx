@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="flex w-full min-h-screen items-center justify-center bg-[#f1f1f1]">
+    <main className="flex w-full min-h-screen items-center justify-center !bg-[#ebebeb] max-lg:py-32 relative">
         <HeroSection />
     </main>
   );
