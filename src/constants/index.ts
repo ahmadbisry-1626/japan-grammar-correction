@@ -16,3 +16,4 @@ export const guidelines = [
         desc: 'Jika tidak ada kesalahan maka akan muncul kalimat "No Corrections Were Necessary".'
     },
 ]
+
